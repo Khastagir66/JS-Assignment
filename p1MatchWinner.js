@@ -28,4 +28,4 @@ function matchWinner(teamAGoals, teamBGoals) {
   }
 }
 
-
+// console.log(matchWinner(1, 3));
