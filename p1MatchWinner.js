@@ -28,11 +28,4 @@ function matchWinner(teamAGoals, teamBGoals) {
   }
 }
 
-console.log(matchWinner(1, 3));
-console.log(matchWinner(3, 1));
-console.log(matchWinner(3, 3));
-console.log(matchWinner(1, "3"));
-console.log(matchWinner(-1, 3));
-console.log(matchWinner('nan', 3));
-console.log(matchWinner(3.1416, 3));
-console.log(matchWinner(0, 0));
+
