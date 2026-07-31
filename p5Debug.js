@@ -14,4 +14,3 @@ function averageResponseTime(times) {
   return Number((total / times.length).toFixed(2));
 }
 
-// console.log(averageResponseTime([]));

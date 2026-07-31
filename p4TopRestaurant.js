@@ -17,4 +17,3 @@ function topRatedRestaurant(restaurants) {
 }
 
 
-console.log(topRatedRestaurant([{ name: "Chillox", rating: 4.5 }, { name: "Sultan's Dine", rating: 4.8 }]))

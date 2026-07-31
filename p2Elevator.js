@@ -11,4 +11,4 @@ function isElevatorSafe(weights) {
   }
 }
 
-// console.log(isElevatorSafe([400]));
+
