@@ -18,9 +18,9 @@ function matchWinner(teamAGoals, teamBGoals) {
   }
 
   if (teamAGoals > teamBGoals) {
-    return "Team A won";
+    return "Team A Won";
   } else if (teamAGoals < teamBGoals) {
-    return "Team B won";
+    return "Team B Won";
   } else if (teamAGoals === teamBGoals) {
     return "Draw";
   } else {
@@ -28,4 +28,4 @@ function matchWinner(teamAGoals, teamBGoals) {
   }
 }
 
-// console.log(matchWinner(1, 3));
+console.log(matchWinner(2, 1));
